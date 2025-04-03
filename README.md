@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Selcan</h1>
-<h3 align="center">Türkiye'den tutkulu bir Web3 geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir bilişim öğrencisi</h3>
 - 📫 Bana nasıl ulaşabilirsiniz **selcantaylan@gmail.com**
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
