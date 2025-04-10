@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="center">Merhaba 👋, ben Selcan</h1>
 <h3 align="center">Türkiye'den tutkulu bir bilişim öğrencisi</h3>
 - 📫 Bana nasıl ulaşabilirsiniz **selcantaylan@gmail.com**
