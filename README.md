@@ -1,5 +1,4 @@
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarLordBerke4&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
 
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
