@@ -20,7 +20,8 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&locale=tr" alt="selcantaylan" /></p>
 
 <!--Image-->
-![C#](https://github.com/user-attachments/assets/f8439eb5-f1b8-49c3-b52a-07fb8735a7b0)
+<img align='left' src='https://github.com/user-attachments/assets/f8439eb5-f1b8-49c3-b52a-07fb8735a7b0' width='1010' height="500">
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
