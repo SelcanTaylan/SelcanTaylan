@@ -31,12 +31,12 @@
     <div align="center"> <h1><i>~ Scarlet Witch ~</i></h1>
 
   <tr>
-            <td> <img  src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif10.gif" width="300" height="250">
-            <img src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif6.gif' width='300' height="300"></td>
-            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif7.gif" width="290" height="250">
-            <img align='right' src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif5.gif' width='295'></td>
-            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif9.gif" width="335" height="245" >
-            <img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif8.gif" width="335" height="265"></td>
+            <td> <img  src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif10.gif" width="250" height="250">
+            <img src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif6.gif' width='250' height="300"></td>
+            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif7.gif" width="250" height="250">
+            <img align='right' src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif5.gif' width='250'></td>
+            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif9.gif" width="250" height="245" >
+            <img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif8.gif" width="250" height="265"></td>
           
   </tr>
                  
