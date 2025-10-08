@@ -4,14 +4,15 @@
 
 <h1 align="center">Merhaba 👋, ben Selcan</h1>
 <h3 align="center">Türkiye'den tutkulu bir bilişim öğrencisi</h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
 
 <br>
 
 - 📫 Bana nasıl ulaşabilirsiniz **selcantaylan@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left">
