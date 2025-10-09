@@ -3,8 +3,9 @@
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'am Selcan Taylan</h1>
-<h3 align="center">A passionate aspiring software developer from Türkiye</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
+
+<h3 align="center">A passionate aspiring software developer from Türkiye</h3>
 
 <br>
 
@@ -22,7 +23,8 @@
 <br>
 <hr>
 <p align="center">
-  
+<br>
+<br>
   <table>
     <div align="center"> <h1><i>~ Scarlet Witch ~</i></h1>
 
