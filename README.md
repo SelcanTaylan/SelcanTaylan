@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'am Selcan Taylan</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
 
-<h3 align="center">A passionate aspiring software developer from Türkiye</h3>
-
+<h3 align="center">   🔴🟠🟡A passionate aspiring software developer from Türkiye    🟢🔵🟣</h3>
+                      
 <br>
 
 - 📫 How to reach me: **selcantaylan@gmail.com**
