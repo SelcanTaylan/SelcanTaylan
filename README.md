@@ -2,19 +2,15 @@
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Merhaba 👋, ben Selcan</h1>
-<h3 align="center">Türkiye'den tutkulu bir bilişim öğrencisi</h3>
+<h1 align="center">Hi 👋, I'am Selcan Taylan</h1>
+<h3 align="center">A passionate aspiring software developer from Türkiye</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
 
 <br>
 
-- 📫 Bana nasıl ulaşabilirsiniz **selcantaylan@gmail.com**
+- 📫 How to reach me: **selcantaylan@gmail.com**
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-
-
-
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
