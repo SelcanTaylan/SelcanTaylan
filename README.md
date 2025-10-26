@@ -55,7 +55,7 @@
 <hr>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&locale=en&title_color=ff003c&text_color=c0c0c0&bg_color=4B0000&border_color=800000&icon_color=ff003c&include_all_commits=true&count_private=true&hide_rank=false&v=2" height="200"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&locale=en&title_color=ff003c&text_color=c0c0c0&bg_color=4B0000&border_color=800000&icon_color=ff003c&hide_rank=false" height="200"/>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selcantaylan&show_icons=true&locale=en&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&icon_color=ff003c&langs_count=10&hide_progress=false&v=2" height="200"/>
   </tr>
