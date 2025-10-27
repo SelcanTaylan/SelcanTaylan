@@ -55,10 +55,20 @@
 <hr>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&locale=en&title_color=ff003c&text_color=c0c0c0&bg_color=4B0000&border_color=800000&icon_color=ff003c&hide_rank=false" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&hide_rank=false" 
+    height="200"
+  />   
+</td>
+<td>
+ <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcantaylan&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&langs_count=10&hide_progress=false" 
+    height="200"
+  />
+</td> 
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selcantaylan&show_icons=true&locale=en&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&icon_color=ff003c&langs_count=10&hide_progress=false&v=2" height="200"/>
-  </tr>
+      <img src="https://streak-stats.demolab.com?user=selcantaylan&theme=dark&background=4B0000&border=800000&stroke=800000&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&sideLabels=c0c0c0&currStreakNum=ff003c&dates=c0c0c0" height="165"/>
+    </td>
 </table>
 <hr>
 <img width="1162" height="822" alt="Image" src="https://github.com/user-attachments/assets/bd7e9ff9-aa8c-46ec-aa62-61851898b4c6" />
