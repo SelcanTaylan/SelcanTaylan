@@ -45,37 +45,38 @@
                  
              
                
-<table style="border: 2px solid #800000; border-collapse: collapse;">
+<table style="border: 2px solid #800000; border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
-           <!-- Genel GitHub İstatistikleri -->
+    <!-- Genel GitHub İstatistikleri -->
+    <td style="text-align: center; padding: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&hide_rank=false&cache_seconds=86400" 
+        src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&hide_rank=false&cache_seconds=3600&v=2" 
         alt="GitHub Stats"
-        height="400"
+        height="200"
       />
     </td>
-    <td>
-      <!-- En Çok Kullanılan Diller -->
+    <!-- En Çok Kullanılan Diller -->
+    <td style="text-align: center; padding: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcantaylan&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&langs_count=10&hide_progress=false&cache_seconds=86400" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcantaylan&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&langs_count=10&hide_progress=false&cache_seconds=3600&v=2" 
         alt="Top Languages"
-        height="300"
+        height="200"
       />
     </td>
   </tr>
+
   <tr>
-    <td colspan=2>
-            <!-- Aktivite Grafiği -->
+    <!-- Aktivite Grafiği -->
+    <td colspan="2" style="text-align: center; padding: 10px;">
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=selcantaylan&bg_color=4B0000&color=c0c0c0&line=ff003c&point=ff003c&area=true&area_color=800000&title_color=ff003c&hide_border=false&custom_title=Selcantaylan's%20Contribution%20Graph" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=selcantaylan&bg_color=4B0000&color=c0c0c0&line=ff003c&point=ff003c&area=true&area_color=800000&title_color=ff003c&hide_border=false&custom_title=Selcantaylan's%20Contribution%20Graph&v=2" 
         alt="GitHub Activity Graph"
-        height="300"
+        height="250"
       />
     </td>
-
   </tr>
 </table>
+
 
 
 
