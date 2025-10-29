@@ -48,11 +48,11 @@
 <table style="border: 2px solid #800000; border-collapse: collapse;">
   <tr>
     <td>
-      <!-- Aktivite Grafiği -->
+           <!-- Genel GitHub İstatistikleri -->
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=selcantaylan&bg_color=4B0000&color=c0c0c0&line=ff003c&point=ff003c&area=true&area_color=800000&title_color=ff003c&hide_border=false&custom_title=Selcantaylan's%20Contribution%20Graph" 
-        alt="GitHub Activity Graph"
-        height="300"
+        src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&hide_rank=false&cache_seconds=86400" 
+        alt="GitHub Stats"
+        height="400"
       />
     </td>
     <td>
@@ -65,22 +65,15 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <!-- Genel GitHub İstatistikleri -->
+    <td colspan=2>
+            <!-- Aktivite Grafiği -->
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&hide_rank=false&cache_seconds=86400" 
-        alt="GitHub Stats"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=selcantaylan&bg_color=4B0000&color=c0c0c0&line=ff003c&point=ff003c&area=true&area_color=800000&title_color=ff003c&hide_border=false&custom_title=Selcantaylan's%20Contribution%20Graph" 
+        alt="GitHub Activity Graph"
         height="300"
       />
     </td>
-    <td>
-      <!-- Katkı Serisi -->
-      <img 
-        src="https://streak-stats.demolab.com?user=selcantaylan&theme=dark&background=4B0000&border=800000&stroke=800000&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&sideLabels=c0c0c0&currStreakNum=ff003c&dates=c0c0c0" 
-        alt="GitHub Streak"
-        height="300"
-      />
-    </td>
+
   </tr>
 </table>
 
