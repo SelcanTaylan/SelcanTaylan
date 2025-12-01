@@ -79,8 +79,7 @@
 
 
 <hr>
-<img width="1162" height="822" alt="Image" src="https://github.com/user-attachments/assets/bd7e9ff9-aa8c-46ec-aa62-61851898b4c6" />
-<hr>
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
