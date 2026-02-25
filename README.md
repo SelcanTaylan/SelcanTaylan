@@ -4,62 +4,65 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
 <h3 align="center">💥A passionate aspiring software developer from Türkiye💥</h3>   
 <br>
-<a href="www.linkedin.com/in/selcan-taylan">
+<a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
-- 📫 How to reach me: **selcantaylan@gmail.com**
+<a href="www.linkedin.com/in/selcan-taylan">www.linkedin.com/in/selcan-taylan</a>
+
+📫 How to reach me: <b>selcantaylan@gmail.com</b>
 <h3 align="left">Languages & Tools</h3>
   <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
   <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <!-- Go -->
-  <a href="https://go.dev/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <!-- Java -->
-  <a href="https://www.java.com/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <!-- C# -->
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <!-- Illustrator -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
   </a>
   <!-- Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <!-- Animate -->
-  <a href="https://www.adobe.com/products/animate.html" target="_blank">
+  <a href="#" >
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-animate.svg" alt="Animate" width="40" height="40"/>
   </a>
 <br>
 <hr>
 <br>
+<h1>📈Statistics</h1>
 <table>
   <tr>
     <td>
